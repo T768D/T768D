@@ -55,4 +55,4 @@ jobs:
         git add .
         # Force the build to succeed, even if no files were changed
         git commit -m 'Update generated files' || true
-        git push --set-upstream origin generated
+        git push --set-upstream origin master
