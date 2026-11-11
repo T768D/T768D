@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #083fa1; 
-  width: 73.246%;
+  width: 73.398%;
 " class="progress-item"></span><span style="
   background-color: #800000; 
-  width: 26.439%;
+  width: 26.285%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 0.133%;
+  width: 0.134%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 0.125%;
+  width: 0.127%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 0.038%;
+  width: 0.039%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 0.013%;
@@ -176,7 +176,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Markdown</span>
-  <span class="percent">73.25%</span>
+  <span class="percent">73.40%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -192,7 +192,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Adblock Filter List</span>
-  <span class="percent">26.44%</span>
+  <span class="percent">26.28%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -224,7 +224,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Zig</span>
-  <span class="percent">0.12%</span>
+  <span class="percent">0.13%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
