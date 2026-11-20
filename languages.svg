@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #083fa1; 
-  width: 72.752%;
+  width: 72.688%;
 " class="progress-item"></span><span style="
   background-color: #800000; 
-  width: 26.930%;
+  width: 26.994%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 0.132%;
@@ -176,7 +176,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Markdown</span>
-  <span class="percent">72.75%</span>
+  <span class="percent">72.69%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -192,7 +192,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Adblock Filter List</span>
-  <span class="percent">26.93%</span>
+  <span class="percent">26.99%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
